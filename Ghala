@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>الورد الطائفي</title>
+  <style>
+    body {
+      background-color: #fff5f9;
+      font-family: 'Cairo', sans-serif;
+      color: #5a2a34;
+      margin: 40px;
+    }
+
+    header {
+      text-align: center;
+      background-color: #f7d6e0;
+      padding: 20px;
+      border-radius: 20px;
+      box-shadow: 0 4px 8px #e3bfc9;
+    }
+
+    h1 {
+      font-size: 36px;
+      margin: 0;
+    }
+
+    section {
+      margin-top: 30px;
+      line-height: 1.8;
+      font-size: 18px;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 15px;
+      box-shadow: 0 4px 6px #e8d3db;
+    }
+
+    img {
+      display: block;
+      margin: 20px auto;
+      max-width: 80%;
+      border-radius: 20px;
+    }
+
+    footer {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 14px;
+      color: #8a5a65;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>الورد الطائفي 🌹</h1>
+    <p>عطر الطبيعة من أعالي الطائف</p>
+  </header>
+
+  <section>
+    <p>
+      يُعد الورد الطائفي من أندر وأجمل أنواع الورود في المملكة العربية السعودية. يزرع في منطقة الهدا والشفا بمدينة الطائف، ويتميز بعطره الفواح الذي يستخدم في أغلى أنواع العطور.
+    </p>
+    <p>
+      يتم قطفه يدويًا في الفجر، ثم يُقطّر في مصانع تقليدية لينتج عنه "دهن الورد الطائفي" المشهور عالميًا.
+    </p>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Rose_Taif.jpg" alt="الورد الطائفي">
+
+    <p>
+      يُعتبر رمزًا للجمال والتراث، ويُهدى في المناسبات، وتُقام له مهرجانات سنوية تعكس حب الناس له.
+    </p>
+  </section>
+
+  <footer>
+    &copy; 2025 - تصميم: غلا عسيري 💗
+  </footer>
+
+</body>
+</html>
